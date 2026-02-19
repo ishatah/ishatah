@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Ibrahim here,
 
-<!--
-**ishatah/ishatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast focused on offensive security and low-level systems.
+Building deep technical understanding from network packets to exploit development.
 
-Here are some ideas to get you started:
+🔭 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Advancing through PEN-200 (PWK)
+
+Preparing for Offensive Security Certified Professional (OSCP)
+
+Long-term path toward Offensive Security Experienced Penetration Tester (OSEP)
+
+🛠 Technical Interests
+
+Linux & Active Directory attacks
+
+Data Networking and Traffic Analysis
+
+C / C++
+
+^_^
